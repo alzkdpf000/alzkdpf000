@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e0f7fa,100:80dfff&height=280&section=header&text=ChungHyo_Jung&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=280&section=header&text=Jahyun_Hwang&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h3 align="center">Hi! I'm Hyo </h3>
 <p align="center">
